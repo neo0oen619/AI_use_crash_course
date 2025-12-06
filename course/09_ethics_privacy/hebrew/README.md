@@ -1,3 +1,20 @@
+<details open>
+
+1. [01 – יסודות הפרטיות – מה לשמור לעצמי כשעובדים עם AI | Privacy basics – what to keep to yourself](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/09_ethics_privacy/hebrew/01_privacy_basics.md)  
+   הפרק מסביר מה נחשב מידע אישי ומידע רגיש (שם, מספרי זיהוי, מידע רפואי/משפטי וכד’), ומדגיש שהטקסטים שאתם שולחים עשויים להישמר – ולכן לא מדביקים סיסמאות, קודים, פרטי חשבון או סיפורים שמזהים אנשים
+
+2. [02 – שימושים רגישים – איפה להיות זהירים במיוחד | Sensitive use cases – where to be extra cautious](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/09_ethics_privacy/hebrew/02_sensitive_use_cases.md)  
+   מתמקד בתחומים רגישים כמו בריאות נפשית ופיזית, משפט וכספים, יחסים אישיים ועבודה עם ילדים. ה‑AI רואה רק טקסט ואינו מחזיק אחריות, ולכן הוא מתאים להסברים כלליים ולתרגול ניסוחים – אך לא להחלטות רפואיות, אבחונים, ייעוץ משפטי או השקעות
+
+3. [03 – אחריות ותפקידים – מי מחליט, מי עוזר | Responsibility & roles – who decides and who assists](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/09_ethics_privacy/hebrew/03_responsibility_and_roles.md)  
+   מבהיר שה‑AI הוא כלי חזק לנסח, לסכם ולהציע רעיונות, אך הוא אינו מחליף שיקול דעת מקצועי או קשר אנושי. התפקיד שלנו הוא להחליט מה לעשות, מתי להתייעץ עם איש מקצוע, ולבדוק את הגבולות האתיים והמקצועיים שלנו
+
+4. [04 – צ'קליסט קצר – שימוש אחראי ב‑AI | Short checklist – using AI responsibly](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/09_ethics_privacy/hebrew/04_guidelines_checklist.md)  
+   צ'קליסט מעשי שמזכיר לבדוק לפני שיתוף טקסט שאין פרטים מזהים או מידע אסור לשיתוף, ולשאול שאלות לפני שקבלת החלטות על סמך תשובת AI. הוא גם מדגיש שהמודל הוא כלי סטטיסטי, ושבמצבים רגישים או מקצועיים יש לפנות לאנשי מקצוע
+
+</details>
+
+
 ## מודול 09 – אתיקה, פרטיות ואחריות
 
 במודול הזה עוצרים רגע את הצד הטכני ושואלים:
