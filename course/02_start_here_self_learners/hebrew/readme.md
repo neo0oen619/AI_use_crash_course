@@ -9,7 +9,7 @@
 אם יש לך עוד קבצים במודול הזה (למשל 02_study_habits.md וכו’),
 תוכל להוסיף אותם כאן באותו מבנה, למשל:
 
-2. [02_study_habits – הרגלי למידה בריאים](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/02_start_here_self_learners/hebrew/02_study_habits.md)
+2. [02_study_habits – הרגלי למידה בריאים](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/02_start_here_self_learners/hebrew/02_study_tips_and_mindset.md)
 
 </details>
 
