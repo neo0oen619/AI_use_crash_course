@@ -3,7 +3,7 @@
 - ⬇️ [הורדה של כל הפרויקט](https://github.com/neo0oen619/AI_use_crash_course/archive/refs/heads/main.zip)
 - ⬇️ [הורדה רק של תיקיית הקורס](https://github.com/neo0oen619/AI_use_crash_course/releases/download/1.0.0/course.zip)
 
-<details>
+<details open>
 <summary>📚 פרקי הקורס (עברית)</summary>
 
 0. [פרק 00 – מבוא לקורס](course/00_roadmap_syllabus/hebrew_refined)
