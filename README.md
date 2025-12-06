@@ -1,33 +1,28 @@
-[הורדה של כל הפרויקט](https://github.com/neo0oen619/AI_use_crash_course/archive/refs/heads/main.zip)
+## 🔗 קישורים מהירים – עברית
 
-[הורדה רק של הקורס](https://github.com/neo0oen619/AI_use_crash_course/releases/download/1.0.0/course.zip)
+- ⬇️ [הורדה של כל הפרויקט](https://github.com/neo0oen619/AI_use_crash_course/archive/refs/heads/main.zip)
+- ⬇️ [הורדה רק של תיקיית הקורס](https://github.com/neo0oen619/AI_use_crash_course/releases/download/1.0.0/course.zip)
 
-[פרק 00 מבוא לקורס](https://github.com/neo0oen619/AI_use_crash_course/tree/main/course/00_roadmap_syllabus/hebrew_refined)
+<details>
+<summary>📚 פרקי הקורס (עברית)</summary>
 
-[פרק 01 ](https://github.com/neo0oen619/AI_use_crash_course/tree/main/course/01_intro/hebrew)
+0. [פרק 00 – מבוא לקורס](course/00_roadmap_syllabus/hebrew_refined)
+1. [פרק 01](course/01_intro/hebrew)
+2. [פרק 02](course/02_start_here_self_learners/hebrew)
+3. [פרק 03](course/03_models_context/hebrew)
+4. [פרק 04](course/04-practical_usage/hebrew)
+5. [פרק 05](course/05_prompt_engineering_basic/hebrew)
+6. [פרק 06](course/06_prompt_engineering_advanced/hebrew)
+7. [פרק 07](course/07_probabilistic_creative/hebrew)
+8. [פרק 08](course/08_quirks_safety/hebrew)
+9. [פרק 09](course/09_ethics_privacy/hebrew)
+10. [פרק 10](course/10_projects_summary/hebrew)
+11. [פרק 11](course/11_prompt_library/hebrew)
+12. [פרק 12](course/12_agents/hebrew)
 
-[פרק 02 ](https://github.com/neo0oen619/AI_use_crash_course/tree/main/course/02_start_here_self_learners/hebrew)
+</details>
 
-[פרק 03](https://github.com/neo0oen619/AI_use_crash_course/tree/main/course/03_models_context/hebrew)
-
-[פרק 04](https://github.com/neo0oen619/AI_use_crash_course/tree/main/course/04-practical_usage/hebrew)
-
-[פרק 05](https://github.com/neo0oen619/AI_use_crash_course/tree/main/course/05_prompt_engineering_basic/hebrew)
-
-[פרק 06](https://github.com/neo0oen619/AI_use_crash_course/tree/main/course/06_prompt_engineering_advanced/hebrew)
-
-[פרק 07](https://github.com/neo0oen619/AI_use_crash_course/tree/main/course/07_probabilistic_creative/hebrew)
-
-[פרק 08](https://github.com/neo0oen619/AI_use_crash_course/tree/main/course/08_quirks_safety/hebrew)
-
-[פרק 09](https://github.com/neo0oen619/AI_use_crash_course/tree/main/course/09_ethics_privacy/hebrew)
-
-[פרק 10](https://github.com/neo0oen619/AI_use_crash_course/tree/main/course/10_projects_summary/hebrew)
-
-[פרק 11](https://github.com/neo0oen619/AI_use_crash_course/tree/main/course/11_prompt_library/hebrew)
-
-[פרק 12](https://github.com/neo0oen619/AI_use_crash_course/tree/main/course/12_agents/hebrew)
-
+---
 # קורס שימוש ב‑AI – עברית ואנגלית ✨⚙️
 
 > קורס שימוש עצמי ב‑AI לאנשים רגילים – כדי שתפסיקו לריב עם צ׳טבוטים ב‑3 בלילה ותתחילו להוציא מהם משהו שימושי.
