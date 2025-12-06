@@ -1,3 +1,23 @@
+<details open>
+
+1. [01 – AI כהסתברות, לא אמת מוחלטת | AI as probability, not absolute truth](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/07_probabilistic_creative/hebrew/01_probabilistic_view.md)  
+   ללמוד לראות את המודל כמכונת הסתברות ויצירתיות, במקום מקור אמת יחיד.
+
+2. [02 – אסטרטגיית “כמה תשובות” | The “multiple answers” strategy](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/07_probabilistic_creative/hebrew/02_multiple_answers_strategy.md)  
+   כיצד לבקש 3–5 תשובות שונות, להשוות ביניהן ולשלב חלקים כדי לבנות פתרון טוב יותר.
+
+3. [03 – “ברוט-פורס” יצירתי | Creative brute-force brainstorming](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/07_probabilistic_creative/hebrew/03_bruteforce_brainstorming.md)  
+   להשתמש במודל כדי להעלות עשרות רעיונות ולסנן אותם בשלבים, במקום לחפש “רעיון מושלם”.
+
+4. [04 – סינון רעיונות | Filtering ideas](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/07_probabilistic_creative/hebrew/04_filtering_ideas.md)  
+   שיטות ותבניות לסינון רשימת רעיונות לפי קריטריונים של השפעה, מאמץ והתאמה אישית.
+
+5. [05 – הנדסה הפוכה של רעיונות ותשובות | Reverse-engineering ideas & answers](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/07_probabilistic_creative/hebrew/05_reverse_engineering.md)  
+   לקחת תשובות טובות או דוגמאות קיימות, לפרק אותן לאלמנטים (הקשר, תפקיד, אילוצים) ולהפוך אותן לתבניות פרומפט שימושיות.
+
+</details>
+
+
 ## מודול 07 – חשיבה הסתברותית ורעיונות "ברוט פורץ"
 
 במודול הזה משנים קצת את האופן שבו מסתכלים על תשובות של AI:
