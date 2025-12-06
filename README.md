@@ -2,7 +2,7 @@
 
 - ⬇️ [הורדה של כל הפרויקט](https://github.com/neo0oen619/AI_use_crash_course/archive/refs/heads/main.zip)
 - ⬇️ [הורדה רק של תיקיית הקורס](https://github.com/neo0oen619/AI_use_crash_course/releases/download/1.0.0/course.zip)
-
+  [https://www.youtube.com/watch?v=19uABYmfBbk](∞∞∞∞∞∞∞∞)
 <details open>
 <summary>📚 פרקי הקורס (עברית)</summary>
 
