@@ -2,7 +2,6 @@
 
 - ⬇️ [הורדה של כל הפרויקט](https://github.com/neo0oen619/AI_use_crash_course/archive/refs/heads/main.zip)
 - ⬇️ [הורדה רק של תיקיית הקורס](https://github.com/neo0oen619/AI_use_crash_course/releases/download/1.0.0/course.zip)
-- ⬇️ [אידיאולוגיה>∞∞∞∞∞∞∞∞](https://www.youtube.com/watch?v=19uABYmfBbk)
 <details open>
 <summary>📚 פרקי הקורס – עברית / Hebrew</summary>
 
@@ -400,3 +399,22 @@ A: Take a break, pick a shorter path, or skip to a module that looks useful righ
 
 Backups (and critical thinking) are cheaper than therapy.  
 Have fun – and be at least 10% suspicious of anything the AI says, including this sentence.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- ⬇️ [אידיאולוגיה>∞∞∞∞∞∞∞∞](https://www.youtube.com/watch?v=19uABYmfBbk)
