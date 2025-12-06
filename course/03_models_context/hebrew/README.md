@@ -1,15 +1,25 @@
 <details open>
 <summary>📚 פרקי מודול 03 – מודלים, הקשר וחלון זיכרון</summary>
 
-1. [01 – כותרת פרק 01](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/03_models_context/hebrew/👉HERE_PUT_FILENAME_01👈.md)  
-2. [02 – כותרת פרק 02](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/03_models_context/hebrew/👉HERE_PUT_FILENAME_02👈.md)  
-3. [03 – כותרת פרק 03](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/03_models_context/hebrew/👉HERE_PUT_FILENAME_03👈.md)  
-4. [04 – כותרת פרק 04](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/03_models_context/hebrew/👉HERE_PUT_FILENAME_04👈.md)  
-5. [05 – כותרת פרק 05](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/03_models_context/hebrew/👉HERE_PUT_FILENAME_05👈.md)  
-6. [06 – כותרת פרק 06](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/03_models_context/hebrew/👉HERE_PUT_FILENAME_06👈.md)
+1. [01 – מה זה מודל שפה גדול? | What is a language model?](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/03_models_context/hebrew/01_what_is_a_language_model.md)  
+   הסבר אינטואיטיבי על איך מודל שפה גדול (LLM) עובד, מה הוא “רואה” כשאתם כותבים לו טקסט, ולמה זה יותר ניחוש חכם מאשר “מחשבה”.
+
+2. [02 – טוקנים: איך המודל רואה טקסט | Tokens & text chunks](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/03_models_context/hebrew/02_tokens_and_text_chunks.md)  
+   היכרות עם טוקנים – החתיכות הקטנות שהמודל עובד איתן: איך טקסט נשבר, למה זה משפיע על אורך השיחה, ומה זה אומר מבחינת עלויות ומגבלות.
+
+3. [03 – חלון הקשר וזיכרון בשיחה | Context window & memory](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/03_models_context/hebrew/03_context_window_and_memory.md)  
+   מה זה “חלון הקשר”, כמה מידע המודל יכול להחזיק בראש בכל רגע, למה הוא שוכח דברים משיחות ארוכות, ואיך לעקוף את זה בשימוש חכם.
+
+4. [04 – למה המודל ממציא דברים? | Why models hallucinate](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/03_models_context/hebrew/04_why_models_hallucinate.md)  
+   פירוק התופעה של “הזיות”: למה המודל בטוח בעצמו גם כשהוא טועה, איפה זה קורה יותר, ואיך להגיב לזה בלי להילחץ.
+
+5. [05 – לעבוד חכם עם מגבלות אורך | Working with length limits](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/03_models_context/hebrew/05_working_with_length_limits.md)  
+   כלים פרקטיים: איך לפצל טקסטים, לסכם, לעבד מסמכים גדולים ולהימנע ממצב שבו “נגמר המקום בחלון הקשר” באמצע משהו חשוב.
+
+6. [06 – סיכום ותבנית חשיבה על מודלים | Summary & mental model](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/03_models_context/hebrew/06_summary_and_mental_model.md)  
+   חזרה על הרעיונות המרכזיים ובניית “מודל מנטלי” פשוט: איך לחשוב על מודלי שפה ביום-יום כדי לקבל מהם תשובות טובות יותר.
 
 </details>
-
 
 ## מודול 03 – איך המודל “חושב”: טוקנים, הקשר, חיתוך ותצורה
 
