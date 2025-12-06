@@ -1,3 +1,21 @@
+<details open>
+<summary>📚 פרקי מודול 01 – היכרות ראשונית עם בינה מלאכותית (עברית)</summary>
+
+1. [01_what_is_ai – מה זה בעצם AI / מודל שפה גדול?](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/01_intro/hebrew/01_what_is_ai.md)  
+   הסבר אינטואיטיבי על סוגי בינה מלאכותית, מה מיוחד במודלי שפה גדולים, ולמה הם “מנחשים את הטוקן הבא” ולא “מבינים את העולם”. כולל רעיונות לשאלות לצ׳אט.
+
+2. [02_what_ai_can_and_cannot_do – מה AI יכול לעשות טוב ומה לא](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/01_intro/hebrew/02_what_ai_can_and_cannot_do.md)  
+   מיפוי יכולות חזקות (ניסוח, סיכום, רעיונות וכו’) מול גבולות ומגבלות (הזיות, חוסר ודאות, אחריות אנושית) + תרגילי חשיבה על המצבים בחיים שלכם.
+
+3. [03_use_cases – דוגמאות שימוש](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/01_intro/hebrew/03_use_cases.md)  
+   תרחישים קונקרטיים מעולמות לימוד, עבודה וכתיבה, עם פרומפטים לדוגמה שאפשר להעתיק ולהתאים לעצמכם.
+
+4. [04_myths_and_fears – מיתוסים ופחדים סביב AI](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/01_intro/hebrew/04_myths_and_fears.md)  
+   פירוק מיתוסים נפוצים (“AI יחליף את כולם”, “אי אפשר לסמוך עליו בכלל”, “אני אפסיק לחשוב אם אשתמש בו”) והסתכלות מאוזנת על החששות.
+
+</details>
+
+
 ## מודול 01 – היכרות ראשונית עם בינה מלאכותית (AI)
 
 במודול הזה נבנה יחד שפה בסיסית סביב AI:
