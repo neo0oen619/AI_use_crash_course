@@ -1,3 +1,20 @@
+<details open>
+
+1. [01 – להגדיר פרסונה וסגנון ל‑AI | Defining a persona & style for AI](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/06_prompt_engineering_advanced/hebrew/01_personas_and_style.md)  
+   איך להגדיר “פרסונה” ו“סגנון” למודל כדי לקבל תשובות עקביות ומתאימות לקהל שלכם:contentReference[oaicite:0]{index=0}.
+
+2. [02 – פרומפטים רב‑שלביים | Multi‑step prompts](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/06_prompt_engineering_advanced/hebrew/02_multi_step_prompts.md)  
+   איך לפרק משימה גדולה לתהליך עם צעדים ברורים במקום בקשה אחת ענקית:contentReference[oaicite:1]{index=1}.
+
+3. [03 – לקבל תשובות במבנה ברור | Getting structured answers](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/06_prompt_engineering_advanced/hebrew/03_structured_outputs.md)  
+   בקשת תוצאות במבנים מובנים כגון רשימות, טבלאות וטפסים כדי להקל על קריאה והשוואה:contentReference[oaicite:2]{index=2}.
+
+4. [04 – דוגמאות “בטעם פסיכולוגי” | “Psychology‑flavored” examples](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/06_prompt_engineering_advanced/hebrew/04_light_psychology_examples.md)  
+   שימוש בתבניות ללמידה והשתקפות אישית – לא לטיפול – כגון הסברים, סיכומי שיחות ושאלות לסוף יום:contentReference[oaicite:3]{index=3}.
+
+</details>
+
+
 ## מודול 06 – הנדסת פרומפט מתקדמת
 
 מודול זה ממשיך את מודול 05 ומעמיק את העבודה עם פרומפטים:
