@@ -1,13 +1,13 @@
 <details open>
-<summary>📚 פרקי מודול 00 – מפת דרכים וסילבוס (עברית)</summary>
+<summary>📚 פרקי מודול 00 – מפת דרכים וסילבוס (עברית)</summary>
 
-0. [00_overview – סקירה כללית של הקורס](course/00_roadmap_syllabus/hebrew_refined/00_overview.md)  
-   סקירה כללית של הקורס: למי הוא מיועד, אילו מודולים יש, מה מקבלים מכל חלק, ואיך לשלב קריאה עם עבודה מול AI.
+0. [00_overview – סקירה כללית של הקורס](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/00_roadmap_syllabus/hebrew_refined/00_overview.md)  
+   סקירה כללית: למי הקורס מיועד, אילו מודולים יש, ומה מקבלים מכל חלק. כיצד לשלב קריאה עם עבודה מול AI.
 
-1. [01_glossary – מונחי יסוד](course/00_roadmap_syllabus/hebrew_refined/01_glossary.md)  
+1. [01_glossary – מונחי יסוד](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/00_roadmap_syllabus/hebrew_refined/01_glossary.md)  
    מילון מונחים בסיסיים (LLM, טוקן, חלון הקשר, הזיות, סוכן וכו’) בשפה פשוטה ולמה הם חשובים.
 
-2. [02_cheatsheet – דף קיצורי דרך](course/00_roadmap_syllabus/hebrew_refined/02_cheatsheet.md)  
+2. [02_cheatsheet – דף קיצורי דרך](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/00_roadmap_syllabus/hebrew_refined/02_cheatsheet.md)  
    צ’יטשיט לפתיחה מהירה: איך לפתוח שיחה עם AI, כמה “שאלות זהב” קבועות, ומה לעשות כשמרגישים תקועים.
 
 </details>
