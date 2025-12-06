@@ -1,3 +1,23 @@
+<details open>
+
+1. [01 – הזיות (Hallucinations) – כש‑AI ממציא בביטחון | Hallucinations – when AI makes things up](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/08_quirks_safety/hebrew/01_hallucinations.md)  
+   איך לזהות תשובות שנשמעות סמכותיות אבל כוללות עובדות, ציטוטים או קוד מומצאים; למה זה קורה וכיצד לצמצם נזק:contentReference[oaicite:0]{index=0}.
+
+2. [02 – הטיות ומגבלות – להבין איפה ל‑AI יש “משקפיים עקומות” | Biases & limits – where AI’s view is skewed](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/08_quirks_safety/hebrew/02_biases_and_limits.md)  
+   הסבר על הטיות סמויות של המודל (שפה, תרבות, מגדר) ומגבלותיו המובְנות (ידע חלקי, הבנת הקשר, cutoff):contentReference[oaicite:1]{index=1}.
+
+3. [03 – שכבות בטיחות ו“צנזורה” – ולמה זה לפעמים מרגיש מוזר | Safety layers & ‘censorship’ – why it feels weird](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/08_quirks_safety/hebrew/03_safety_layers_and_censorship.md)  
+   מה הן שכבות הבטיחות (אימון, פילטרים, הוראות מערכת), כיצד הן מחליטות לסרב לבקשות מסוכנות, ואיך לנסח פניות לימודיות בבטחה:contentReference[oaicite:2]{index=2}.
+
+4. [04 – מלכודות פסיכולוגיות בעבודה עם AI | Psychological pitfalls when working with AI](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/08_quirks_safety/hebrew/04_psychological_pitfalls.md)  
+   זיהוי דפוסים נפוצים כמו ייחוס יתר, הטיית אישור, הישענות רגשית מוגזמת ואשליית התקדמות – וכיצד לשמור על שימוש מאוזן:contentReference[oaicite:3]{index=3}.
+
+5. [05 – שאלות נפוצות ותקלות – כשה‑AI לא מתנהג כמו שציפיתי | FAQ & troubleshooting – when AI misbehaves](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/08_quirks_safety/hebrew/05_faq_troubleshooting.md)  
+   מקרים פרקטיים כמו סירובים, תשובות שטחיות, זיכרון קצר, שונות בין תשובות והזיות – ומה לעשות בכל אחד מהם:contentReference[oaicite:4]{index=4}.
+
+</details>
+
+
 ## מודול 08 – מוזרויות, טעויות ובטיחות
 
 במודול הזה מסתכלים על הצד ה"מקרטע" של עבודה עם AI:
