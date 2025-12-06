@@ -1,4 +1,4 @@
-הורדה של הקורס(https://github.com/neo0oen619/AI_use_crash_course/releases/download/1.0.0/course.zip)
+[הורדה של הקורס](https://github.com/neo0oen619/AI_use_crash_course/releases/download/1.0.0/course.zip)
 
 # קורס שימוש ב‑AI – עברית ואנגלית ✨⚙️
 
