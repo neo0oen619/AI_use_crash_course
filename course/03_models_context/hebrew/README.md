@@ -1,3 +1,16 @@
+<details open>
+<summary>📚 פרקי מודול 03 – מודלים, הקשר וחלון זיכרון</summary>
+
+1. [01 – כותרת פרק 01](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/03_models_context/hebrew/👉HERE_PUT_FILENAME_01👈.md)  
+2. [02 – כותרת פרק 02](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/03_models_context/hebrew/👉HERE_PUT_FILENAME_02👈.md)  
+3. [03 – כותרת פרק 03](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/03_models_context/hebrew/👉HERE_PUT_FILENAME_03👈.md)  
+4. [04 – כותרת פרק 04](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/03_models_context/hebrew/👉HERE_PUT_FILENAME_04👈.md)  
+5. [05 – כותרת פרק 05](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/03_models_context/hebrew/👉HERE_PUT_FILENAME_05👈.md)  
+6. [06 – כותרת פרק 06](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/03_models_context/hebrew/👉HERE_PUT_FILENAME_06👈.md)
+
+</details>
+
+
 ## מודול 03 – איך המודל “חושב”: טוקנים, הקשר, חיתוך ותצורה
 
 במודול הזה אנחנו מתעמקים קצת יותר ב”מוח” של מודלי השפה:
