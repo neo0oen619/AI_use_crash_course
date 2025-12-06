@@ -1,4 +1,5 @@
 [הורדה של הקורס](https://github.com/neo0oen619/AI_use_crash_course/releases/download/1.0.0/course.zip)
+[00מבוא לקורס](https://github.com/neo0oen619/AI_use_crash_course/tree/main/course/00_roadmap_syllabus/hebrew_refined)
 
 # קורס שימוש ב‑AI – עברית ואנגלית ✨⚙️
 
