@@ -1,26 +1,28 @@
 <details open>
 <summary>📚 פרקי מודול 04 – שימושים מעשיים בחיי היום־יום | Practical everyday usage</summary>
 
-1. [01 – עבודה יומיומית ומיילים | Everyday work & email](https://github.com/neo0oen619/AI_use_crash_course/tree/main/course/04-practical_usage/hebrew)  
-   איך להשתמש ב-AI כדי לכתוב, לערוך ולסכם מיילים, הודעות ושיחות עבודה – בלי להישמע רובוטיים.
+1. [01 – זרימות יומיומיות עם AI | Daily workflows](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/04-practical_usage/hebrew/01_daily_workflows.md)  
+   ניהול זמן יומיומי – בוקר, אמצע יום, סוף יום עם AI ככלי עבודה.
 
-2. [02 – כתיבה ועריכה של טקסטים ארוכים | Long-form writing & editing](https://github.com/neo0oen619/AI_use_crash_course/tree/main/course/04-practical_usage/hebrew)  
-   שימוש ב-AI כ״עורך על הכתף״: שיפור ניסוח, מבנה, טון וסגנון במסמכים, פוסטים, עבודות וכו’.
+2. [02 – ללמוד יחד עם AI | Learning with AI](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/04-practical_usage/hebrew/02_learning_with_ai.md)  
+   איך להפוך את ה‑AI לשותף למידה ולא רק “מכונת תשובות”.
 
-3. [03 – לימודים, סיכומים והכנה למבחנים | Studying & exam prep](https://github.com/neo0oen619/AI_use_crash_course/tree/main/course/04-practical_usage/hebrew)  
-   איך להפוך טקסטים לסיכומים, שאלות חזרה, כרטיסיות ועוד – תוך שמירה על חשיבה עצמאית.
+3. [03 – צ'קליסט לפני שמקבלים תשובה מ‑AI | Checklist before using an AI answer](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/04-practical_usage/hebrew/03_checklist_before_using_answer.md)  
+   כמה שאלות קצרות לבדיקה עצמית לפני שמאמצים תשובת AI.
 
-4. [04 – תכנון וארגון אישי | Planning & personal organization](https://github.com/neo0oen619/AI_use_crash_course/tree/main/course/04-practical_usage/hebrew)  
-   שימוש ב-AI כעוזר תכנון: לוחות זמנים, פירוק פרויקטים למשימות, וארגון עומס בראש.
+4. [04 – לתקן תשובות של AI | Debugging AI answers](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/04-practical_usage/hebrew/04_debugging_ai_answers.md)  
+   כיצד לדבג ולתקן תשובות AI במקום להילחם בהן.
 
-5. [05 – מחקר, בדיקת עובדות וחיפוש מידע | Research & fact-checking](https://github.com/neo0oen619/AI_use_crash_course/tree/main/course/04-practical_usage/hebrew)  
-   איך לשלב AI עם חיפוש רגיל, לזהות הזיות, ולבנות הרגלים בריאים לאימות מידע.
+5. [05 – תבניות שיחה | Conversation templates](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/04-practical_usage/hebrew/05_conversation_templates.md)  
+   לפתוח כל שיחה עם מבנה ברור ומדריך שאלות בסיסיות.
 
-6. [06 – סיעור מוחות ויצירתיות | Brainstorming & creativity](https://github.com/neo0oen619/AI_use_crash_course/tree/main/course/04-practical_usage/hebrew)  
-   שימוש ב-AI להעלאת רעיונות, וריאציות, כיוונים חדשים ופתרונות יצירתיים – בלי לתת לו להחליף את הדמיון שלכם.
+6. [06 – שפה ו‑AI | Language and AI](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/04-practical_usage/hebrew/06_language_and_ai.md)  
+   איך ניסוח, עברית/אנגלית וה“שפה הפנימית” שלנו משפיעים על התוצאות.
+
+7. [07 – הקשר והיסטוריה | Context & history](https://github.com/neo0oen619/AI_use_crash_course/blob/main/course/04-practical_usage/hebrew/07_context_and_history.md)  
+   להבין את הקשר וההיסטוריה של השיחה ומתי כדאי להתחיל מחדש.
 
 </details>
-
 
 ## מודול 04 – שימוש יומיומי חכם ב‑AI
 
