@@ -4,9 +4,9 @@ setlocal ENABLEDELAYEDEXPANSION
 REM Change to the folder where this script is located
 cd /d "%~dp0"
 
-REM Check if this is a git repo; if not, initialize one for this project
+REM Ensure this is a git repo; if not, initialize one for this project
 if not exist ".git" (
-    echo [INFO] .git folder not found – initializing a new git repository here.
+    echo [INFO] .git folder not found - initializing a new git repository here.
     git init
     if errorlevel 1 (
         echo [ERROR] git init failed. Is git installed and in PATH?
@@ -16,6 +16,9 @@ if not exist ".git" (
     REM Set a default remote pointing at the AI_use_crash_course repo (can be adjusted later if needed)
     git remote add origin https://github.com/neo0oen619/AI_use_crash_course.git 2>nul
 )
+
+REM We always push to branch "main" on the remote
+set TARGET_BRANCH=main
 
 REM Get commit message from arguments or ask the user
 set COMMIT_MSG=%*
@@ -50,17 +53,19 @@ if "%GH_TOKEN%"=="" (
     exit /b 1
 )
 
-REM Get current branch name (fallback to "main" if none yet)
-set BRANCH=
+REM Show current local branch (for info only)
+set CUR_BRANCH=
 for /f "usebackq delims=" %%B in (`git rev-parse --abbrev-ref HEAD 2^>NUL`) do (
-    set BRANCH=%%B
-)
-if "%BRANCH%"=="" (
-    set BRANCH=main
+    set CUR_BRANCH=%%B
 )
 
 echo.
-echo Current branch: %BRANCH%
+if "%CUR_BRANCH%"=="" (
+    echo Current local branch: (none yet, will create "%TARGET_BRANCH%")
+) else (
+    echo Current local branch: %CUR_BRANCH%
+)
+echo Target branch on GitHub: %TARGET_BRANCH%
 
 echo.
 echo Staging all changes in this folder...
@@ -69,7 +74,7 @@ git add -A
 echo.
 echo Committing with message: "%COMMIT_MSG%"
 REM Use --allow-empty so a commit is created even if there are no file diffs,
-REM which ensures a full snapshot is pushed every time this script runs.
+REM which ensures a commit exists for each run.
 git commit -m "%COMMIT_MSG%" --allow-empty
 if errorlevel 1 (
     echo.
@@ -78,14 +83,14 @@ if errorlevel 1 (
     exit /b 1
 )
 
-REM Ensure the branch has the name we detected/decided (main for new repos)
-git branch -M %BRANCH% >nul 2>&1
+REM Ensure the current branch is named "main"
+git branch -M %TARGET_BRANCH% >nul 2>&1
 
 echo.
 echo Pushing to your GitHub repo using the username and token you entered...
 echo Repo: https://github.com/neo0oen619/AI_use_crash_course.git
 REM Force-push so local state is treated as the source of truth.
-git push "https://%GH_USER%:%GH_TOKEN%@github.com/neo0oen619/AI_use_crash_course.git" %BRANCH% --force
+git push "https://%GH_USER%:%GH_TOKEN%@github.com/neo0oen619/AI_use_crash_course.git" %TARGET_BRANCH% --force
 
 if errorlevel 1 (
     echo.
@@ -96,8 +101,9 @@ if errorlevel 1 (
 
 echo.
 echo ==========================================
-echo ✅ Done! GitHub now has a commit with the files from this folder.
+echo Done! GitHub now has a commit with the files from this folder.
 echo ==========================================
 pause
 endlocal
 exit /b 0
+
