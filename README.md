@@ -3,9 +3,15 @@
 - ⬇️ [הורדה של כל הפרויקט](https://github.com/neo0oen619/AI_use_crash_course/archive/refs/heads/main.zip)
 - ⬇️ [הורדה רק של תיקיית הקורס](https://github.com/neo0oen619/AI_use_crash_course/releases/download/1.0.0/course.zip)
 
-- ⬇️ [אידיאולוגיה>∞∞∞∞∞∞∞∞](https://www.youtube.com/watch?v=19uABYmfBbk)
+  <details>
+
+  [אידיאולוגיה>∞∞∞∞∞∞∞∞](https://www.youtube.com/watch?v=19uABYmfBbk)
+</details>
 <details open>
+  
 <summary>📚 פרקי הקורס – עברית / Hebrew</summary>
+
+1. [תיקייה ראשית לקורס עם הסבר](https://github.com/neo0oen619/AI_use_crash_course/tree/main/course)
 
 0. [פרק 00 – מפת דרכים וסילבוס | Roadmap & syllabus](https://github.com/neo0oen619/AI_use_crash_course/tree/main/course/00_roadmap_syllabus/hebrew_refined)  
 
