@@ -1,7 +1,11 @@
 ## 🔗 קישורים מהירים – עברית
 
-- ⬇️ [הורדה של כל הפרויקט](https://github.com/neo0oen619/AI_use_crash_course/archive/refs/heads/main.zip)
-- ⬇️ [הורדה רק של תיקיית הקורס](https://github.com/neo0oen619/AI_use_crash_course/releases/download/1.0.0/course.zip)
+-⬇️ [הורדה של כל הפרויקט](https://github.com/neo0oen619/AI_use_crash_course/archive/refs/heads/main.zip)
+
+-⬇️ [הורדה רק של תיקיית הקורס](https://github.com/neo0oen619/AI_use_crash_course/releases/download/1.0.0/course.zip)
+
+-[סרטון :Watch on YouTube ChatGPT was just the "Lightbulb" Moment for AI](https://www.youtube.com/watch?v=btaLViZ_bOE&t=821s)
+
 
   <details>
 
