@@ -4,8 +4,9 @@
 
 -⬇️ [הורדה רק של תיקיית הקורס](https://github.com/neo0oen619/AI_use_crash_course/releases/download/1.0.0/course.zip)
 
--[סרטון :How does OpenAI just keep winning? Here's their secret behind Deep Research...](https://youtu.be/ArUzfIBrrZw?si=SP6e-VxK7Zcm6VxU&t=428)
+-סרטון [:How does OpenAI just keep winning? Here's their secret behind Deep Research...](https://youtu.be/ArUzfIBrrZw?si=SP6e-VxK7Zcm6VxU&t=428)
 
+-סרטון [Gemini 3 isn't the answer. How to Solve 1 Million Steps with 0 Errors](https://www.youtube.com/watch?v=TJ-vWGCosdQ&list=LL)
 
   <details>
 
